@@ -68,6 +68,8 @@ efincare.com
 efinmail.com
 email-smtp1.com
 emailerasstist.com
+example1.com
+example2.com
 eveedge.com
 extrobuzzapp.com
 fabhotels.com
